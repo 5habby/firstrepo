@@ -1,1 +1,22 @@
 i will make update in this
+folder me 
+git status
+
+1-to make repository
+git init
+
+branch by default master hoti he 
+master mane main branch
+
+2-how to add all files at once in repository
+we are adding files in staging area
+git add --a
+
+3-took screenshot
+git commit -m "Intial commit"
+
+4-remove all repositories
+ rm -rf .git
+
+5-git log
+now we will change second 
